@@ -17,11 +17,11 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| https://github.com/ | Онлайн платформа-торговой сети электроники | Python, Django, DRF, PostgreSQL, Docker, JWT, Pytest |
-| https://github.com/ | API для книжной библиотеки  | Python, Django, DRF, JWT, PostgreSQL, Docker, Unittest, REST API |
-| https://github.com/ | Платформа  для онлайн-обучения | Python, Django, DRF, Simple JWT, PostgreSQL, Pytest, REST API |
-| [https://github.com/](https://github.com/MichaelMigachev/cw_habits_drf) | Трекер полезных привычек | Python, Django, DRF, PostgreSQL, Celery, Redis, Telegram Bot API |
-| [ https://github.com/](https://github.com/MichaelMigachev/Course_Project_mailing) | Сервис управления рассылками | Django, PostgreSQL, HTML/CSS, Bootstrap |
+| [https://github.com/](https://github.com/MichaelMigachev/electronics_network) | Онлайн платформа-торговой сети электроники | Python, Django, DRF, PostgreSQL, Docker, JWT, Pytest |
+| [https://github.com/](https://github.com/MichaelMigachev/api_for_books_library) | API для книжной библиотеки  | Python, Django, DRF, JWT, PostgreSQL, Docker, Unittest, REST API |
+| [https://github.com/](https://github.com/MichaelMigachev/DRF_Project) | Платформа  для онлайн-обучения | Python, Django, DRF, Simple JWT, PostgreSQL, Pytest, REST API |
+| [https://github.com/](https://github.com/MichaelMigachev/cw_habits_drf) | Трекер полезных привычек | Python, Django, DRF, PostgreSQL, Celery, Redis, Telegram Bot, API |
+| [https://github.com/](https://github.com/MichaelMigachev/Course_Project_mailing) | Сервис управления рассылками | Django, PostgreSQL, HTML/CSS, Bootstrap |
 | [https://github.com/](https://github.com/MichaelMigachev/course_work_4) | Парсер вакансий | Python, ООП, PostgreSQL, requests |
 
 
