@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**MichaelMigachev/MichaelMigachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет! Меня зовут Михаил 👋
 
-Here are some ideas to get you started:
+Я начинающий Python-разработчик. Люблю бэкенд, инфраструктуру и простоту в коде.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Немного обо мне
+- 🔭 Сейчас работаю над pet-проектами на Python
+- 🌱 Изучаю: Английский (A1), Docker, PostgreSQL
+- 💬 Люблю чистый код и понятные архитектуры
+
+## 🛠 Мои навыки
+- Языки: Python
+- База данных: PostgreSQL
+- Технологии: REST API, Docker, Git
+
+## 📂 Проекты
+
+| Название | Описание | Стек |
+|----------|----------|------|
+| https://github.com/ | Сервис сокращения ссылок | Go, PostgreSQL, Docker |
+| https://github.com/ | REST API для задач | Go, Fiber, GORM |
+| https://github.com/ | Практика и мелкие задания | Go |
+
+## 📫 Связаться со мной
+- Telegram: @Michael210575
+- Email: migachev21@gmail.com
+
+## ⚡️ Fun fact
+Я могу забыть, что написал вчера, но точно помню, где поставить `;` 😄
